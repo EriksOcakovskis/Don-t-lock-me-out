@@ -1,5 +1,5 @@
 # Don't lock me out
-# Version 0.2.0
+# Version 1.0.0
 
 import sys
 import time
